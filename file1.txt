@@ -1,2 +1,2 @@
 Hello World
-changing the contents of file 1 edwdce ees
+changing the contents of file 1 edwdce eesStaged changes to file 1
